@@ -22,7 +22,7 @@ Optional arguments include:
 
 ### Warning
 
-To prevent cheating by scrolling up to the previously printed boards, the text of terminal is regularly cleared and scroll is prevented. Please run the game in a terminal you do not reference for.
+To prevent cheating by scrolling up to the previously printed boards, the text of terminal is regularly cleared and scroll is prevented. Please run the game in a terminal you do not need reference for.
 
 ### Controls
 
